@@ -1,4 +1,4 @@
-# Güvenlik
+﻿# Güvenlik
 
 Bu repo bir rehber içeriğidir. Güvenlik bildirimi için:
 
